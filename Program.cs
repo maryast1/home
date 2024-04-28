@@ -25,4 +25,5 @@ foreach (var value in array)
     }
 }
 
+Console.Write($"[{String.Join(",", result)}]");
 
