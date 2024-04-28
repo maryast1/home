@@ -11,3 +11,7 @@
     "7"
 };
 
+Console.Write($"[{String.Join(", ", array)}]"); 
+Console.WriteLine();
+
+
